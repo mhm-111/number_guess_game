@@ -112,3 +112,5 @@ elif opt=="n":
 	
 else:
 	print("\n Invalid keyword . Choose a right one.")
+	
+print("\n\n\n")
